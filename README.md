@@ -1,4 +1,4 @@
-Gender Bias in Employee Promotions
+##Gender Bias in Employee Promotions
 
 
 Problem Statement: Assess whether gender impacts promotion decisions and provide actionable recommendations.
