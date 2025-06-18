@@ -1,7 +1,8 @@
 ## Gender Bias in Employee Promotions
 
 
-### Problem Statement: Assess whether gender impacts promotion decisions and provide actionable recommendations.
+### Problem Statement: 
+Assess whether gender impacts promotion decisions and provide actionable recommendations.
 
 ### 1. Problem Framing & Hypothesis
 The objective is to analyze whether gender affects promotion decisions in a company setting. We
