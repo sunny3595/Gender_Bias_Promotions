@@ -55,6 +55,7 @@ ensure fairer, more merit-based promotions.
 • Provide bias awareness training for managers.
 • Track promotion KPIs and gender ratios quarterly with dashboards.
 
-Impact: Implementing these actions could reduce promotion disparities and improve overall
+## Impact: 
+Implementing these actions could reduce promotion disparities and improve overall
 employee satisfaction and retention.
 
